@@ -3,7 +3,7 @@
 
 <p align="center">
   💻 .NET Core | Laravel | Clean Architecture | CQRS | DDD <br>
-  🧠 Always Learning | Problem Solver | Software Craftsman
+  🧠 Always Learning | Problem Solver | Software Engineer
 </p>
 
 ---
