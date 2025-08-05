@@ -75,6 +75,8 @@
 - Azure DevOps Pipelines
 - Microservices Architecture 
 
+<!--
+
 ---
 
 ## 📊 GitHub Stats
@@ -84,5 +86,6 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=1ATARI&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
+-->
 
 
